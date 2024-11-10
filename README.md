@@ -34,7 +34,7 @@
 
 ### 📫 ติดต่อผมได้ที่:
 - *Email*: [66020756@up.ac.th](mailto:66020756@up.ac.th)
-- *GitHub*: [github.com/yourusername](https://github.com/yourusername)
+- *GitHub*: [github.com/yourusername](https://github.com/Biw000 )
 
 ---
 
