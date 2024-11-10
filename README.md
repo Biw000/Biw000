@@ -2,8 +2,6 @@
 <h1 align="center">สวัสดีครับ 👋, ผมชื่อ นายธนกร พัฒนเจริญกร</h1>
 <h3 align="center">นักพัฒนาซอฟต์แวร์ที่มีความสนใจในด้านการพัฒนาเว็บไซต์และ AI</h3>
 
-<img src="[https://avatars.githubusercontent.com/u/123456?v=4](https://scontent.fbkk10-1.fna.fbcdn.net/v/t39.30808-6/428680343_1435041434036193_7884092094916711983_n.jpg?stp=cp6_dst-jpg&_nc_cat=102&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=_gyzXJg0ocgQ7kNvgFKBsus&_nc_zt=23&_nc_ht=scontent.fbkk10-1.fna&_nc_gid=AFfmrpWQIbA9s3jC_pZGeec&oh=00_AYAROlWx-kGZBlCdDdtzSe0xWXRD71kCoQo8kzdl-3DAYg&oe=6736485E)" alt="profile-pic" width="150" height="150" align="center" style="border-radius:50%; margin-top:10px;">
-
 ---
 
 ### 👨‍💻 เกี่ยวกับผม:
