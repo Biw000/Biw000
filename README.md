@@ -5,8 +5,7 @@
 ---
 
 ### 👨‍💻 เกี่ยวกับผม:
-- 🎓 เรียนจบจากมหาวิทยาลัย ABC สาขา *Computer Science*
-- 💼 ปัจจุบันทำงานที่บริษัท XYZ เป็น *Software Developer*
+- 🎓 เรียนที่มหาวิทยาลัย พะเยา สาขา *Computer Science*
 - 🔭 กำลังพัฒนาทักษะในด้าน *AI* และ *Machine Learning*
 - 💬 ยินดีให้คำปรึกษาในเรื่อง *Python*, *JavaScript*, *SQL*
 
