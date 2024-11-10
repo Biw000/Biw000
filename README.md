@@ -34,7 +34,6 @@
 
 ### 📫 ติดต่อผมได้ที่:
 - *Email*: [66020756@up.ac.th](mailto:66020756@up.ac.th)
-- *LinkedIn*: [Tanakorn Pattanacharoen](https://www.linkedin.com/in/yourprofile)
 - *GitHub*: [github.com/yourusername](https://github.com/yourusername)
 
 ---
